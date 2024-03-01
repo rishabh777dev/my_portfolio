@@ -1,4 +1,4 @@
-# Your Name's Portfolio
+# My Portfolio
 
 Welcome to my GitHub repository! This is where I showcase my projects and share my journey as a SDE and developer.
 
